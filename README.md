@@ -1,6 +1,7 @@
 # Handswritten Digit Recognition - TensorFlow.js
 
 Tutorial using the dataset MNIST to recognize handwritten digits.
+https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/index.html
 
 
 ## Takeaways
